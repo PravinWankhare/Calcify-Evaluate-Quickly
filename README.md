@@ -3,7 +3,8 @@
 A sleek and interactive web-based calculator built using HTML, CSS, and JavaScript.
 Perform arithmetic calculations quickly and efficiently 🧮💡
 ---
-🚀 Features :
+
+## 🚀 Features :
 
 🎨 Modern & responsive UI with gradients and shadows
 
@@ -21,7 +22,7 @@ Perform arithmetic calculations quickly and efficiently 🧮💡
 
 ---
 
-🎮 How to Use :
+## 🎮 How to Use :
 
 Open the calculator in your browser
 
@@ -35,7 +36,7 @@ Press = to get the result
 
 ---
 
-#Let's Try :
+# Let's Try :
 
 👉🔗 [Live Demo](https://pravinwankhare.github.io/Calcify-Evaluate-Quickly/)
 
@@ -57,7 +58,7 @@ Calcify-Evaluate-Quickly/
 
 ---
 
-🛠 Technologies Used :
+## 🛠 Technologies Used :
 
 HTML5 – Page structure
 
@@ -71,4 +72,4 @@ Google Fonts – Typography
 
 ---
 
-Try Calcify Online !
+# Try Calcify Online !
