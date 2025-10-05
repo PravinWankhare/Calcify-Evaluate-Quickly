@@ -1,12 +1,12 @@
 ✨ Calcify : Evaluate Quickly ✨
 
-📝 Description :
+A sleek and interactive web-based calculator built using HTML, CSS, and JavaScript.
+Perform arithmetic calculations quickly and efficiently! 🧮💡
 
-Calcify is a sleek, interactive web-based calculator designed to perform arithmetic calculations quickly and efficiently. It supports basic operations like addition, subtraction, multiplication, and division, along with clear, delete, and decimal functionalities.
-
-🚀 Features :
+🚀 Features
 
 🎨 Modern, responsive UI with gradients and shadows
+
 ✨ Hover animations for buttons for an interactive experience
 
 ➕➖✖️➗ Supports basic arithmetic operations: +, -, *, /
@@ -17,35 +17,42 @@ Calcify is a sleek, interactive web-based calculator designed to perform arithme
 
 🖥 Real-time input display and calculation
 
-💻 Built with HTML5, CSS3, and JavaScript
-
 🎨 Uses Font Awesome icons and Google Fonts
 
-🎬 Demo :
+🎮 How to Use
 
-Live Demo: https://pravinwankhare.github.io/Calcify-Evaluate-Quickly/
+Open the calculator in your browser
 
+Click the number buttons to input values
 
-🎯 Usage :
+Click the operator buttons (+, -, *, /) to perform operations
 
-🔢 Click the number buttons to input values
+Use C to clear all input, CE to clear the last entry, and ⌫ to delete the last digit
 
-➕➖✖️➗ Click the operator buttons to perform operations
+Press = to get the result
 
-🧹 C clears all input, CE clears the last entry, ⌫ deletes the last digit
+📂 Project Structure
+Calcify-Evaluate-Quickly/
+├── index.html       → Main HTML file
+├── style.css        → Styling for the calculator
+├── app.js           → JavaScript logic
+├── images/          → Logo and other images
+└── README.md        → This file
 
-✅ Press = to get the result
+🛠 Technologies Used
 
-🛠 Technologies Used :
-HTML5 – Structure
-CSS3 – Styling & hover effects
-JavaScript – Interactive functionality
+HTML5 – Page structure
+
+CSS3 – Styling, layout, hover effects
+
+JavaScript – Calculator functionality
+
 Font Awesome – Icons
+
 Google Fonts – Typography
 
-👨‍💻 Author:
-Pravin Wankhare
-GitHub: https://github.com/PravinWankhare
+📸 Demo
 
-📜 License :
-This project is open-source and available under the MIT License.
+🔗 Live Demo 
+
+Try Calcify Online
