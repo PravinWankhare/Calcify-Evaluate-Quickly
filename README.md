@@ -2,14 +2,14 @@
 
 A sleek and interactive web-based calculator built using HTML, CSS, and JavaScript.
 Perform arithmetic calculations quickly and efficiently! 🧮💡
+---
+🚀 Features :
 
-🚀 Features
+🎨 Modern & responsive UI with gradients and shadows
 
-🎨 Modern, responsive UI with gradients and shadows
+✨ Hover animations for buttons
 
-✨ Hover animations for buttons for an interactive experience
-
-➕➖✖️➗ Supports basic arithmetic operations: +, -, *, /
+➕➖✖️➗ Supports basic arithmetic operations
 
 🧹 Clear (C), Clear Entry (CE), and backspace (⌫) functionality
 
@@ -17,21 +17,33 @@ Perform arithmetic calculations quickly and efficiently! 🧮💡
 
 🖥 Real-time input display and calculation
 
-🎨 Uses Font Awesome icons and Google Fonts
+🎨 Font Awesome icons & Google Fonts
 
-🎮 How to Use
+---
+
+🎮 How to Use :
 
 Open the calculator in your browser
 
 Click the number buttons to input values
 
-Click the operator buttons (+, -, *, /) to perform operations
+Click the operator buttons (+, -, *, /)
 
 Use C to clear all input, CE to clear the last entry, and ⌫ to delete the last digit
 
 Press = to get the result
 
-📂 Project Structure
+---
+🔗 Live Demo : (https://pravinwankhare.github.io/Calcify-Evaluate-Quickly/)
+
+---
+
+📸 Demo :(https://github.com/PravinWankhare/Calcify-Evaluate-Quickly/blob/main/Calcify%20-%20Screenshot.png)
+
+---
+
+📂 Project Structure :
+
 Calcify-Evaluate-Quickly/
 ├── index.html       → Main HTML file
 ├── style.css        → Styling for the calculator
@@ -39,11 +51,13 @@ Calcify-Evaluate-Quickly/
 ├── images/          → Logo and other images
 └── README.md        → This file
 
-🛠 Technologies Used
+---
+
+🛠 Technologies Used :
 
 HTML5 – Page structure
 
-CSS3 – Styling, layout, hover effects
+CSS3 – Styling & hover effects
 
 JavaScript – Calculator functionality
 
@@ -51,8 +65,6 @@ Font Awesome – Icons
 
 Google Fonts – Typography
 
-📸 Demo
+---
 
-🔗 Live Demo 
-
-Try Calcify Online
+Try Calcify Online !
