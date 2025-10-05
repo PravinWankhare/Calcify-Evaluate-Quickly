@@ -6,13 +6,19 @@ Perform arithmetic calculations quickly and efficiently 🧮💡
 
 ## 🚀 Features :
 
--🎨 Modern & responsive UI with gradients and shadows
--✨ Hover animations for button
--➕➖✖️➗ Supports basic arithmetic operations
--🧹 Clear (C), Clear Entry (CE), and backspace (⌫) functionality
--🔢 Decimal (.) and double-zero (00) support
--🖥 Real-time input display and calculation
--🎨 Font Awesome icons & Google Fonts
+🎨 Modern & responsive UI with gradients and shadows
+
+✨ Hover animations for button
+
+➕➖✖️➗ Supports basic arithmetic operations
+
+🧹 Clear (C), Clear Entry (CE), and backspace (⌫) functionality
+
+🔢 Decimal (.) and double-zero (00) support
+
+🖥 Real-time input display and calculation
+
+🎨 Font Awesome icons & Google Fonts
 
 ---
 
