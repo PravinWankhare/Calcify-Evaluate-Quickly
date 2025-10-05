@@ -1,8 +1,7 @@
 # ✨ Calcify : Evaluate Quickly ✨
 
----
 A sleek and interactive web-based calculator built using HTML, CSS, and JavaScript.
-Perform arithmetic calculations quickly and efficiently! 🧮💡
+Perform arithmetic calculations quickly and efficiently 🧮💡
 ---
 🚀 Features :
 
@@ -36,12 +35,12 @@ Press = to get the result
 
 ---
 
-## Let's Try :
+#Let's Try :
 
 👉🔗 [Live Demo](https://pravinwankhare.github.io/Calcify-Evaluate-Quickly/)
 
 ---
-## Project Demo :
+# Project Demo :
 
 📸 ![Demo](https://github.com/PravinWankhare/Calcify-Evaluate-Quickly/blob/main/Calcify%20-%20Screenshot.png)
 
