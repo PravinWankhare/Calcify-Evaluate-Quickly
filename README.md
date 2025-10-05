@@ -6,24 +6,25 @@ Perform arithmetic calculations quickly and efficiently 🧮💡
 
 ## 🚀 Features :
 
-🎨 Modern & responsive UI with gradients and shadows
-✨ Hover animations for buttons
-➕➖✖️➗ Supports basic arithmetic operations
-🧹 Clear (C), Clear Entry (CE), and backspace (⌫) functionality
-🔢 Decimal (.) and double-zero (00) support
-🖥 Real-time input display and calculation
-🎨 Font Awesome icons & Google Fonts
+-🎨 Modern & responsive UI with gradients and shadows
+-✨ Hover animations for button
+-➕➖✖️➗ Supports basic arithmetic operations
+-🧹 Clear (C), Clear Entry (CE), and backspace (⌫) functionality
+-🔢 Decimal (.) and double-zero (00) support
+-🖥 Real-time input display and calculation
+-🎨 Font Awesome icons & Google Fonts
+
+---
+
+# Project Demo :
+
+📸 ![Demo](https://github.com/PravinWankhare/Calcify-Evaluate-Quickly/blob/main/Calcify%20-%20Screenshot.png)
 
 ---
 
 # Let's Try :
 
 👉🔗 [Live Demo](https://pravinwankhare.github.io/Calcify-Evaluate-Quickly/)
-
----
-# Project Demo :
-
-📸 ![Demo](https://github.com/PravinWankhare/Calcify-Evaluate-Quickly/blob/main/Calcify%20-%20Screenshot.png)
 
 ---
 
